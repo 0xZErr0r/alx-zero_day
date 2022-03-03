@@ -10,4 +10,4 @@ ls -l = Display current directory contents in a long format
 
 ls -l -a = Display current directory contents, including hidden files (starting with .). Use the long format
 
- = Display current directory contents.
+ls -lna = Display current directory contents.
